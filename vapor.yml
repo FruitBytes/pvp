@@ -2,6 +2,7 @@ id: 41909
 name: PvP
 environments:
     production:
+        domain: pvp.nz
         memory: 1024
         cli-memory: 512
         runtime: 'php-8.2:al2'
