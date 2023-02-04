@@ -1,5 +1,6 @@
 id: 41909
 name: PvP
+asset-domain: assets.pvp.nz
 environments:
     production:
         domain: pvp.nz
