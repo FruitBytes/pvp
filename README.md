@@ -9,12 +9,12 @@ PvP is a website designed to connect programmers looking for a collaborative pro
 5. Pair program!
 
 ## Potential Features (in no particular order)
+- [x] User authentication and authorization to ensure a secure platform.
 - [ ] User-friendly interface for searching for programming partners
 - [ ] Ability to filter for compatible programmers based on various factors (eg. language, skills, location, and availability)
 - [ ] Option to pair program in real-time or asynchronously
 - [ ] User profiles to showcase skills and availability
 - [ ] Messaging system to communicate with potential partners
-- [ ] User authentication and authorization to ensure a secure platform.
 - [ ] Option to save and manage a list of favorite partners
 - [ ] Ability to rate and review previous pair programming partners.
 
