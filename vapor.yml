@@ -3,10 +3,12 @@ name: PvP
 asset-domain: assets.pvp.nz
 environments:
     production:
-        domain: pvp.nz
+        timeout: 25
         memory: 1024
         cli-memory: 512
+        gateway-version: 2
         runtime: 'php-8.2:al2'
+        domain: pvp.nz
         build:
             - 'COMPOSER_MIRROR_PATH_REPOS=1 composer install --no-dev'
             - 'php artisan event:cache'
