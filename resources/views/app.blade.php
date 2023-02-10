@@ -7,7 +7,8 @@
         <title inertia>{{ config('app.name', 'Laravel') }}</title>
 
         <!-- Fonts -->
-        <link rel="stylesheet" href="https://fonts.bunny.net/css2?family=Nunito:wght@400;600;700&display=swap">
+        <link rel="preconnect" href="https://fonts.bunny.net">
+        <link rel="stylesheet" href="https://fonts.bunny.net/css?family=ubuntu:400,500,700" />
 
         <!-- Scripts -->
         @routes
